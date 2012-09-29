@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 29 Sep 2012 23:08:21 +0530
+Source: web
+Binary: web
+Architecture: source all
+Version: 0.1
+Distribution: precise
+Urgency: low
+Maintainer: UNKNOWN <UNKNOWN>
+Changed-By: Harikrishnan S <har777@RAGE>
+Description: 
+ web        - UNKNOWN
+Changes: 
+ web (0.1) precise; urgency=low
+ .
+   * Initial release.
+Checksums-Sha1: 
+ a8b0b7d0fd976debb06eff7460563053da49f534 496 web_0.1.dsc
+ bfbc5298a7e48d0154d5224570eeb5cd12cc92b4 27451 web_0.1.tar.gz
+ 89bbfac3709d1a7de39243728b9d94ab810fefe6 28584 web_0.1_all.deb
+Checksums-Sha256: 
+ dfe2e15a9fe77115998d3985c6d197e9592047c151804a56bf9abab02de88e2d 496 web_0.1.dsc
+ 018f9d33c9101c978161d2eac6ab6cad33161058c841efaa18edf45c9b7cf36e 27451 web_0.1.tar.gz
+ de01d5d4f6d0651858474a91a066e8bd118698256a91bce7002cc641a75798e8 28584 web_0.1_all.deb
+Files: 
+ 61bb4c3daa0729b31e0c060040834655 496 python extra web_0.1.dsc
+ 9346359f369829ca418edcf3b577b604 27451 python extra web_0.1.tar.gz
+ 1426ffa582bf84ce90e6ad36841b7dab 28584 python extra web_0.1_all.deb
